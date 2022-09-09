@@ -3,6 +3,7 @@
 	"description": "Learning NPM with FCC",
 	"keywords": ["freecodecamp", "learning", "NPM"],
 	"license": "BSD",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
