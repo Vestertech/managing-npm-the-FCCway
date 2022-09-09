@@ -1,5 +1,6 @@
 {
 	"author": "Sylvester Eziagor",
+	"description": "Learning NPM with FCC",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
